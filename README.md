@@ -41,7 +41,7 @@ The Random Forest clearly outperforms the baseline, proving it captures useful p
 ## Repository Structure
 
 ```markdown
-data/ # dataset (if small/public)
+data/ # dataset
 notebook/ # Jupyter notebook with analysis
 models/ # saved best model
 README.md # project documentation
@@ -136,7 +136,7 @@ El Bosque Aleatorio supera claramente al baseline, demostrando que captura patro
 ## Estructura del Repositorio
 
 ```markdown
-data/ # dataset (si es pequeño/público)
+data/ # dataset
 notebook/ # notebook de Jupyter con el análisis
 models/ # modelo guardado
 README.md # documentación del proyecto
